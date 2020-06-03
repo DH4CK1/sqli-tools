@@ -1,5 +1,5 @@
 requests
 bs4
 google
-var_animate
+varAnimate
 
